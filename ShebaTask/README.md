@@ -1,4 +1,4 @@
-This code defines a Flutter app with two screens: a "Settings" screen and an "Account" screen. The app uses material design components and widgets.
+This code is a Flutter app with two screens: a "Settings" screen and an "Account" screen. The app uses material design components and widgets.
 
 The main screen of the app (MyApp) is defined as a StatelessWidget. It includes a Scaffold with an AppBar and a ListView containing several items. Each item is a widget (such as Text, Switch, Row, and Column) arranged in a hierarchical manner using containers such as SizedBox and GestureDetector.
 
